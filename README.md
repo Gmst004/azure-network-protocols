@@ -55,6 +55,6 @@ In the displayed interface, I've initiated a ping towards the Google website fro
 ![observingssh](https://github.com/Gmst004/azure-network-protocols/assets/155221840/5daae073-0b19-4273-847c-3fef9727f5cf)
 
 
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+Using PowerShell, I executed an SSH secure shell connection to VM-2. While the activity within the connection may seem minimal, the primary intent is to monitor the traffic flowing between VM-1 and VM-2 closely.
 </p>
 <br />
