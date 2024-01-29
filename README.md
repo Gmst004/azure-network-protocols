@@ -46,7 +46,7 @@ I am currently logged into VM-1 through remote desktop on the screen, and I've j
 ![wiresharkpinggoogle](https://github.com/Gmst004/azure-network-protocols/assets/155221840/759e70cc-e4cf-4bf6-bf91-f1fc5774576f)
 
 
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let him run away from the pain.
+In the displayed interface, I've initiated a ping towards the Google website from VM-1, purposefully engaging in this action to meticulously examine the data traffic that transpires between VM-1 and the Google servers.
 </p>
 <br />
 
