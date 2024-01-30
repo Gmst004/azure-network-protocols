@@ -34,7 +34,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <p>
 
-![wiresharkpinggoogle](https://github.com/Gmst004/azure-network-protocols/assets/155221840/a890fbc2-8912-40bd-bbb9-e155352444b7)
+![powershellping](https://github.com/Gmst004/azure-network-protocols/assets/155221840/d82b69c1-766d-4f79-94a9-7b44786f5e46)
+
 
 
 I am currently logged into VM-1 through remote desktop on the screen, and I've just initiated a ping to VM-2. At this moment, my focus is directed towards actively observing the data traffic flowing between VM-1 and VM-2, gaining insights into the communication patterns and ensuring a smooth interaction between the two virtual machines.
@@ -43,7 +44,8 @@ I am currently logged into VM-1 through remote desktop on the screen, and I've j
 
 <p>
 
-![wiresharkpinggoogle](https://github.com/Gmst004/azure-network-protocols/assets/155221840/759e70cc-e4cf-4bf6-bf91-f1fc5774576f)
+![powersheelgoogleping](https://github.com/Gmst004/azure-network-protocols/assets/155221840/fa882dad-93e9-4261-a25c-4d100bdd82bf)
+
 
 
 In the displayed interface, I've initiated a ping towards the Google website from VM-1, purposefully engaging in this action to meticulously examine the data traffic that transpires between VM-1 and the Google servers.
